@@ -475,7 +475,7 @@ function Intro({ onStart }) {
         <span style={{ fontSize: 15, color: "white", fontWeight: 900, letterSpacing: -0.3 }}>아이맞춤 <span style={{ color: "#FF6B35" }}>영어설계소</span></span>
       </div>
       <div style={{ fontSize: 48, fontWeight: 900, color: "white", lineHeight: 1.2, marginBottom: 12 }}>
-        우리 아이<br /><span style={{ color: "#FF6B35" }}>영어 성향</span> 테스트
+        우리 아이<br /><span style={{ color: "#FF6B35" }}>영어 뇌</span> 는 어떤 타입일까?
       </div>
       <div style={{ marginBottom: 24, maxWidth: 320, width: "100%" }}>
         <div style={{ fontSize: 15, color: "rgba(255,255,255,0.85)", lineHeight: 1.8, marginBottom: 16 }}>
